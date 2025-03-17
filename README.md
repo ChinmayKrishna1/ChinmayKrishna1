@@ -4,13 +4,13 @@
 - 🎓 **Master's in Economics** from **Delhi School of Economics**.  
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, and building intelligent systems.  
 - ☁️ Currently exploring **AWS** to build scalable and cloud-native data solutions.  
-- 📊 Experienced in developing models for **Probability of Default**, **IoT Traffic Classification**, and **Stock Market Prediction**.  
+- 📊 Experienced in developing models for **Probability of Default**, **IoT Traffic Classification**, and **Fraud Detection**.  
 
 ---
 
 ## 🌐 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaykrishna1)  
-[📧 chinmakrishna9@gmail.com](mailto:chinmakrishna9@gmail.com)  
+[📧 chinmakrishna1@outlook.com](mailto:chinmakrishna1@outlook.com)  
 
 ---
 
@@ -36,8 +36,7 @@
 
 ## 🚀 **Projects:**  
 - 📊 **Probability of Default Model:** Improved prediction accuracy with **Logistic Regression** by **3.26%**.  
-- 📡 **IoT Traffic Classification:** Classified harmful and benign IoT traffic with robust machine-learning models.  
-- 📉 **Stock Market Prediction:** Built predictive models using **XGBoost** and **Lasso Regression** for stock price forecasting.  
+- 📡 **IoT Traffic Classification:** Classified harmful and benign IoT traffic with robust machine-learning models.    
 - 📦 **Dynamic Pricing Model for NYC Taxis:** Leveraged **location and time data** for optimized pricing strategies.  
 
 ---
@@ -51,7 +50,7 @@
 
 ## 📢 **Let's Collaborate!**  
 I'm open to collaborating on innovative projects in **Data Science**, **Deep Learning**, and **AI Solutions**.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chinmaykrishna1) or drop me an [Email](mailto:chinmakrishna9@gmail.com).  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chinmaykrishna1) or drop me an [Email](mailto:chinmakrishna1@outlook.com).  
 
 ---
 
