@@ -10,7 +10,7 @@
 
 ## 🌐 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaykrishna1)  
-[📧 chinmakrishna1@outlook.com](mailto:chinmakrishna1@outlook.com)  
+[📧 chinmaykrishna1@outlook.com](mailto:chinmaykrishna1@outlook.com)  
 
 ---
 
