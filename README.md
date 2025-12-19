@@ -1,6 +1,6 @@
 
 # 💼 **About Me**  
-- 👨‍💻 **Data Scientist** at **Wells Fargo**, delivering actionable insights and optimizing risk management strategies.  
+- 👨‍💻 **Senior Data Scientist** at **Eli Lilly and Company**, delivering actionable insights and optimizing market mix strategies.  
 - 🎓 **Master's in Economics** from **Delhi School of Economics**.  
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, and building intelligent systems.  
 - ☁️ Currently exploring **AWS** to build scalable and cloud-native data solutions.  
